@@ -20,7 +20,7 @@ body{
 	background:url('../img/bg.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-	/*background-color: rgba(255, 238, 88, 0.3);*/
+	background-color: rgba(255, 238, 88, 0.3);
 }
 .dev-sites{
 	position:absolute;
